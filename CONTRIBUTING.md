@@ -4,7 +4,7 @@ Thank you for your interest in contributing to Smart Collaboration Tools! Here a
 
 ## How to Contribute
 1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
+2. Create a new branch for your feature or bugfix. **Please use descriptive branch names (e.g., `feature/add-login`, `bugfix/fix-header`)**.
 3. Make your changes and commit them with clear messages.
 4. Push your branch back to your fork on GitHub.
 5. Submit a pull request.
