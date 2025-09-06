@@ -8,6 +8,7 @@ Thank you for your interest in contributing to Smart Collaboration Tools! Here a
 3. Make your changes and commit them with clear messages.
 4. Push your branch back to your fork on GitHub.
 5. Submit a pull request.
+6. Before opening a new issue, please check the existing issues to avoid duplicates.
 
 ## Code of Conduct
 Please adhere to the [Code of Conduct](CODE_OF_CONDUCT.md) in all interactions.
