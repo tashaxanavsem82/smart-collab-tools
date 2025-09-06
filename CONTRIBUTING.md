@@ -19,5 +19,7 @@ Make sure to include tests for your changes. Run tests using the following comma
 npm test
 ```
 
+Ensure all tests pass before submitting your pull request.
+
 ## Issues
 If you encounter any issues, please open a detailed issue in the repository so we can address it promptly.
