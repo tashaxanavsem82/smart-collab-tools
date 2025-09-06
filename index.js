@@ -7,7 +7,7 @@ const server = http.createServer(app);
 const io = socketIo(server);
 
 app.get('/', (req, res) => {
-  res.send('Welcome to the Smart Collaboration Tools Platform!');
+  res.send('Welcome to the Smart Collaboration Tools Platform! Explore our features and start collaborating today.');
 });
 
 io.on('connection', (socket) => {
